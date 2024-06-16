@@ -1,3 +1,3 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/peterHoburg/golang-aws-sdk-go-v2-cred-workflow.svg)](https://pkg.go.dev/github.com/peterHoburg/golang-aws-sdk-go-v2-cred-workflow)
+DEPRECATED
 
-# golang-aws-sdk-go-v2-cred-workflow
+https://github.com/peterHoburg/aws-sdk-go-v2-sso-login
